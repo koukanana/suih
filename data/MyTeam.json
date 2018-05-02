@@ -1,0 +1,103 @@
+﻿{
+  "team": [
+    {
+      "name": "王志平",
+      "title": "主任律师",
+      "image": "img/team/wangzhiping.jpg",
+      "tel": "18899990000",
+      "mail": "123@gmail.com",
+      "qq": "12345678",
+      "wechat": "mywechatid"
+    },
+    {
+      "name": "余京明",
+      "title": "律师",
+      "image": "img/team/yujingming.jpg",
+      "tel": "",
+      "mail": "",
+      "qq": "",
+      "wechat": ""
+    },
+    {
+      "name": "莫桂生",
+      "title": "律师",
+      "image": "img/team/moguisheng.jpg",
+      "tel": "",
+      "mail": "",
+      "qq": "",
+      "wechat": ""
+    },
+    {
+      "name": "黎明",
+      "title": "实习律师",
+      "image": "img/team/liming.jpg",
+      "tel": "",
+      "mail": "",
+      "qq": "",
+      "wechat": ""
+    },
+    {
+      "name": "苏燕仪",
+      "title": "实习律师",
+      "image": "img/team/suyanyi.jpg",
+      "tel": "",
+      "mail": "",
+      "qq": "",
+      "wechat": ""
+    },
+    {
+      "name": "冯文铿",
+      "title": "律师",
+      "image": "img/team/fenwenjian.jpg",
+      "tel": "",
+      "mail": "",
+      "qq": "",
+      "wechat": ""
+    },
+    {
+      "name": "陈超",
+      "title": "律师",
+      "image": "img/team/chenchao.jpg",
+      "tel": "",
+      "mail": "",
+      "qq": "",
+      "wechat": ""
+    },
+    {
+      "name": "杨会明",
+      "title": "律师",
+      "image": "img/team/yanhuiming.jpg",
+      "tel": "",
+      "mail": "",
+      "qq": "",
+      "wechat": ""
+    },
+    {
+      "name": "王义宽",
+      "title": "专职律师",
+      "image": "img/team/wangyikuan.jpg",
+      "tel": "",
+      "mail": "",
+      "qq": "",
+      "wechat": ""
+    },
+    {
+      "name": "王水燕",
+      "title": "律师",
+      "image": "img/team/wangshuiyan.jpg",
+      "tel": "",
+      "mail": "",
+      "qq": "",
+      "wechat": ""
+    },
+    {
+      "name": "胡伟",
+      "title": "律师",
+      "image": "img/team/huwei.jpg",
+      "tel": "",
+      "mail": "",
+      "qq": "",
+      "wechat": ""
+    }
+  ]
+}
